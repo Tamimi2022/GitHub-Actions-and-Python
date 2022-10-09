@@ -1,3 +1,3 @@
 
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+[![Generic badge](https://github.com/badge/<Run Tests and Deploy>-<Passing>-<COLOR>.svg)](https://shields.io/)
