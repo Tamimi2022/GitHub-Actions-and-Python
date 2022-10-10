@@ -1,3 +1,2 @@
 
-
-[![Generic badge](https://img.shields.io/badge/<RunTests>-<Passing>-<COLOR>.svg)](https://shields.io/)
+https://github.com/<OWNER>/<[REPOSITORY](https://github.com/Tamimi2022/GitHub-Actions-and-Python)>/actions/workflows/<run-tests>/badge.svg
