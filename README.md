@@ -1,2 +1,3 @@
 
-![example event parameter](https://github.com/github/docs/actions/workflows/run-tests.yml/badge.svg?event=push)
+![Deploy badge](https://github.com/tamimi2022/GitHub-Actions-and-Python/actions/workflows/run-tests.yml/badge.svg)
+
